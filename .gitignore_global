@@ -1,0 +1,17 @@
+# Ignore .pyc files
+*.pyc
+
+# Ignore Python __pycache__ directories
+__pycache__/
+
+# Ignore .DS_Store files (macOS-specific)
+.DS_Store
+
+# Ignore R history files
+.Rhistory
+.Rapp.history
+.RData
+
+# Configure with command: git config --global core.excludesfile ~/.gitignore_global
+
+
