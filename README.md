@@ -4,7 +4,7 @@
 This repository contains the code and a written report for the "Optiver Trading at the Close" Kaggle Code Competition. The competition details and dataset can be found [here](https://www.kaggle.com/competitions/optiver-trading-at-the-close/data).
 
 ## Report
-For the full report, including documentation and insights, you can access it on Overleaf using the following link: [Overleaf Report](https://www.overleaf.com/project/652aa608dc04256b4b160f6b).
+For the full report, including documentation and insights, you can access it on Overleaf using the following link: [Overleaf Report]([https://www.overleaf.com/project/652aa608dc04256b4b160f6b](https://www.overleaf.com/read/sqnpthxkkczv)).
 
 ### Contents
 - `code/`: This directory contains the code related to the competition, including data analysis, model training, and evaluation.
