@@ -9,9 +9,9 @@ MLFlow is an open-source platform for managing the end-to-end machine learning l
 
 To use MLFlow in this project, you can access the MLFlow User Interface (UI) with the following command, after changing to this directory:
 
-\```bash
+```bash
 mlflow ui --backend-store-uri sqlite:///mlflow.db
-\```
+```
 
 This command starts the MLFlow tracking server with the UI. The `--backend-store-uri` option specifies the location of the database where MLFlow will store its metadata. In this case, it's a SQLite database (`mlflow.db`) in the current directory. This server allows you to visually interact with the MLFlow Experiments, Runs, and Artifacts.
 
